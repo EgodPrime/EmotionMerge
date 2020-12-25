@@ -2,7 +2,7 @@
 
 > QQ表情融合
 
-<img src="https://github.com/SingleBone/EmotionMerge/edit/main/imgs/show.png" style="zoom:80%;" />
+<img src="https://github.com/SingleBone/EmotionMerge/blob/main/imgs/show.png" style="zoom:80%;" />
 
 ## 环境需求
 
