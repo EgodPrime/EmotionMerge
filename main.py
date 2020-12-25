@@ -29,7 +29,7 @@ class FaceMerge(QWidget):
         self.setGeometry(300,300,570,200)
         self.setFixedSize(570, 200)
         self.setWindowTitle('Emotion Merge')
-        self.setWindowIcon(QIcon('icon.png'))
+        self.setWindowIcon(QIcon('imgs/icon.png'))
         
         # root vertical box
         vbox = QVBoxLayout()

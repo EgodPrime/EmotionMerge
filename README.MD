@@ -2,6 +2,8 @@
 
 > QQ表情融合
 
+<img src="D:\Gits\EmotionMerge\imgs\show.png" style="zoom:80%;" />
+
 ## 环境需求
 
 * Python3(3.8已测)
